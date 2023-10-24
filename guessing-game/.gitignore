@@ -1,0 +1,12 @@
+/target/
+
+*.rs.o
+*.rlib
+
+.vscode/settings.json
+
+.DS_Store
+.idea/
+
+.DS_Store
+Thumbs.db
